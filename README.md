@@ -8,7 +8,7 @@ The project title should be self explanotory and try not to make it a mouthful. 
 
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*)
 
-I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you will only need the pro version if you are career designer*).
+I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
 
 *What are all those flashy thingies below the title?*
 
