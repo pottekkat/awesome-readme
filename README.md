@@ -17,6 +17,8 @@ The project title should be self explanotory and try not to make it a mouthful. 
 
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
 
+Wait, I forgot something. You can use this README as a template from [this link](README-template.md).
+
 The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
 
 I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
@@ -66,7 +68,7 @@ After you have introduced your project, it is a good idea to add a **Table of co
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README.
 
 - [Project Title](#project-title)
-- [Demo](#demo-preview)
+- [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -75,6 +77,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
     - [Sponsor](#sponsor)
     - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
 - [License](#license)
+- [Footer](#footer)
 
 # Installation
 [(Back to top)](#table-of-contents)
