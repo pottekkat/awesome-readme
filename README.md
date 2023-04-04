@@ -135,4 +135,4 @@ You can add information on how they can open issues or how they can sponsor the 
 
 You can also mention what license the project uses. I usually add it like this:
 
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
+[MIT license](./LICENSE)
