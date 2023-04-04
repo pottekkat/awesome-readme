@@ -17,7 +17,7 @@
 >
 > But it still receives a lot of likes and stars, so I thought it was time to update it.
 >
-> If you are looking for the old version, you can find it here.
+> If you are looking for the old version, you can find it [here](https://github.com/navendu-pottekkat/awesome-readme/tree/a3a427abfdfc8567a3565012bcdf10c3a3f938ca).
 >
 > This guide is for small open source projects without dedicated websites to provide extensive documentation and just need a README to help users use the project.
 
